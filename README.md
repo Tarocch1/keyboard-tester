@@ -1,2 +1,3 @@
-# keyboard-tester
+# Keyboard Tester
+
 A keyboard tester in browser.
