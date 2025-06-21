@@ -2,4 +2,4 @@
 
 A keyboard tester in browser.
 
-[tester.html](https://tarocch1.github.io/keyboard-tester/tester.html)
+🔗 [https://www.tarocch1.com/keyboard-tester/](https://www.tarocch1.com/keyboard-tester/)
